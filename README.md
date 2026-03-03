@@ -14,3 +14,5 @@ index.html/php
 </html>
 
 INDEX <ON> {campo_chave <D> <...n>|ALL} TO nome_arquivo <IF teste> <WHILE teste> <FIRST intervalo|NEXT intervalo> <OPEN> <ISOLOCALE código_local>
+
+kkkk
