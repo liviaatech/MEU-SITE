@@ -16,3 +16,5 @@ index.html/php
 INDEX <ON> {campo_chave <D> <...n>|ALL} TO nome_arquivo <IF teste> <WHILE teste> <FIRST intervalo|NEXT intervalo> <OPEN> <ISOLOCALE código_local>
 
 kkkk
+
+ Como tornar isto mais aceitavel e melhor para a elaboração de um site no github que fique minimamente organizado ?
